@@ -5,7 +5,7 @@ var path = require("path")
 
 app.get('/observaciones', function(req, res){
     console.log("[" + new Date() + "] GET: " + req.url);
-    let data = fs.readFileSync("src/resources/observaciones.json");
+    let data = fs.readFileSync("resources/observaciones.json");
     let json = JSON.parse(data);
     res.status(200);
     res.send(json);
@@ -13,7 +13,7 @@ app.get('/observaciones', function(req, res){
 
 app.get('/estaciones', function(req, res){
     console.log("[" + new Date() + "] GET: " + req.url);
-    let data = fs.readFileSync("src/resources/stations.json");
+    let data = fs.readFileSync("resources/stations.json");
     let json = JSON.parse(data);
     res.status(200);
     res.send(json);
