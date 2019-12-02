@@ -1,7 +1,6 @@
 const express = require("express");
 var app = express();
-var fs = require("fs")
-var path = require("path")
+var fs = require("fs");
 
 app.get('/observaciones', function(req, res){
     console.log("[" + new Date() + "] GET: " + req.url);
@@ -17,6 +16,14 @@ app.get('/estaciones', function(req, res){
     let json = JSON.parse(data);
     res.status(200);
     res.send(json);
+});
+
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", '*');
+    res.header("Access-Control-Allow-Credentials", true);
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
+    res.header("Access-Control-Allow-Headers", 'Origin,X-Requested-With,Content-Type,Accept,content-type,application/json');
+    next();
 });
 
 var port = process.env.PORT || 3000
