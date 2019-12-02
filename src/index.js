@@ -3,7 +3,7 @@ var app = express();
 var fs = require("fs");
 var cors = require('cors');
 
-app.use(cors)
+app.use(cors())
 
 /*app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", '*');
@@ -29,7 +29,7 @@ app.get('/estaciones', function(req, res){
     res.send(json);
 });
 
-var port = process.env.PORT || 3000
+var port = process.env.PORT || 3001
 
 app.listen(port, () => {
   console.log("JsonServer starting...");
