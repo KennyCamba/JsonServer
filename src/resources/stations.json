@@ -1,0 +1,54 @@
+{
+    "1": {
+        "name": "Estación 1",
+        "province": "Santa Elena",
+        "canton": "Santa Elena",
+        "parish": "Manglar Alto",
+        "img": "../img/slides/manglaralto.jpg",
+        "coord": {
+            "lng": -80.726209,
+            "lat": -1.933546
+        },
+        "obs": 0,
+        "last_obs": "not data"
+    },
+    "2": {
+        "name": "Estación 1",
+        "province": "Santa Elena",
+        "canton": "Santa Elena",
+        "parish": "Olon",
+        "img": "../img/slides/olon.jpg",
+        "coord": {
+            "lng": -80.758803,
+            "lat": -1.804541
+        },
+        "obs": 0,
+        "last_obs": "not data"
+    },
+    "3": {
+        "name": "Estación 2",
+        "province": "Guayas",
+        "canton": "Playas",
+        "parish": "General Villamil",
+        "img": "../img/slides/playas.jpg",
+        "coord": {
+            "lng": -80.390786,
+            "lat": -2.640095
+        },
+        "obs": 0,
+        "last_obs": "not data"
+    },
+    "4": {
+        "name": "Estación 3",
+        "province": "Santa Elena",
+        "canton": "Santa Elena",
+        "parish": "Salinas",
+        "img": "../img/slides/salinas.jpg",
+        "coord": {
+            "lng": -80.996364,
+            "lat": -2.200038
+        },
+        "obs": 0,
+        "last_obs": "not data"
+    }
+}
