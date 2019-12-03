@@ -29,6 +29,13 @@ app.get('/estaciones', function(req, res){
     res.send(json);
 });
 
+app.get('/estaciones/imgs', function(req, res){
+    console.log("[" + new Date() + "] GET: " + req.url);
+    var img = req.query["name"];
+    res.status(200);
+    res.sendFile("resources/imgs/" + img);
+});
+
 var port = process.env.PORT || 3001
 
 app.listen(port, () => {
