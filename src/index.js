@@ -2,6 +2,7 @@ const express = require("express");
 var app = express();
 var fs = require("fs");
 var cors = require('cors');
+var path = require("path");
 
 app.use(cors())
 
@@ -32,8 +33,9 @@ app.get('/estaciones', function(req, res){
 app.get('/estaciones/imgs', function(req, res){
     console.log("[" + new Date() + "] GET: " + req.url);
     var img = req.query["name"];
+    var absolutePath = path.resolve("");
     res.status(200);
-    res.sendFile("resources/imgs/" + img);
+    res.sendFile(absolutePath + "/resources/imgs/" + img);
 });
 
 var port = process.env.PORT || 3001
