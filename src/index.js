@@ -22,6 +22,14 @@ app.get('/observaciones', function(req, res){
     res.send(json);
 });
 
+app.get('/geografia', function(req, res){
+    console.log("[" + new Date() + "] GET: " + req.url);
+    let data = fs.readFileSync("resources/geografia.json");
+    let json = JSON.parse(data);
+    res.status(200);
+    res.send(json);
+});
+
 app.get('/estaciones', function(req, res){
     console.log("[" + new Date() + "] GET: " + req.url);
     let data = fs.readFileSync("resources/stations.json");

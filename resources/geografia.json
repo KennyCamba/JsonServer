@@ -1,0 +1,694 @@
+{
+    "1": {
+        "nombre": "El Oro",
+        "cantones": [
+            {
+                "Machala": [
+                    "El Retiro",
+                    "El Cambio",
+                    "La Providencia",
+                    "Machala",
+                    "Puerto Bolívar",
+                    "Nueve de Mayo"
+                ]
+            },
+            {
+                "Arenillas": [
+                    "Carcabón",
+                    "Chacras",
+                    "Palmales"
+                ]
+            },
+            {
+                "Atahualpa": [
+                    "Ayapamba",
+                    "Cordoncillo",
+                    "Milagro",
+                    "San José",
+                    "San Juan de Cerro Azul",
+                    "Paccha"
+                ]
+            },
+            {
+                "Balsas": [
+                    "Bellamaría"
+                ]
+            },
+            {
+                "Chilla": [
+                    "Chilla",
+                    "Carabota",
+                    "Casacay",
+                    "Challiguro",
+                    "Chucacay",
+                    "Cune",
+                    "Dumari",
+                    "El Cedro",
+                    "Gallo Cantana",
+                    "Luz de América",
+                    "Nudillo",
+                    "Pacay",
+                    "Pacayunga",
+                    "Pano",
+                    "Pejeyacu",
+                    "Playas de Daucay",
+                    "Playas de San Tin Tin",
+                    "Pueblo Viejo",
+                    "Quera Alto",
+                    "Shiguil",
+                    "Shiquil"
+                ]
+            },
+            {
+                "El Guabo": [
+                    "Barbones",
+                    "La Iberia",
+                    "Río Bonito",
+                    "Tendales"
+                ]
+            },
+            {
+                "Huaquillas": [
+                    "Ecuador",
+                    "El Paraíso",
+                    "Hualtaco",
+                    "Milton Reyes",
+                    "Unión Lojana"
+                ]
+            },
+            {
+                "Las Lajas": [
+                    "El Paraíso",
+                    "La Libertad",
+                    "San Isidro",
+                    "La Victoria",
+                    "Platanillos",
+                    "Valle Hermoso"
+                ]
+            },
+            {
+                "Marcabelí": [
+                    "El Ingenio"
+                ]
+            },
+            {
+                "Pasaje": [
+                    "Buenavista",
+                    "Cañaquemada",
+                    "Casacay",
+                    "La Peaña",
+                    "Progreso",
+                    "Uzhcurrumi",
+                    "Bolívar",
+                    "Loma de Franco",
+                    "Ochoa León",
+                    "Tres Cerritos"
+                ]
+            },
+            {
+                "Piñas": [
+                    "Capiro",
+                    "La Bocana",
+                    "Moromoro",
+                    "Piedras",
+                    "San Roque",
+                    "Saracay",
+                    "La Matriz",
+                    "La Susaya",
+                    "Piñas Grande"
+                ]
+            },
+            {
+                "Portovelo": [
+                    "Curtincapa",
+                    "Morales",
+                    "Salatí"
+                ]
+            },
+            {
+                "Santa Rosa": [
+                    "Bellamaría",
+                    "Bellavista",
+                    "Jambelí",
+                    "La Avanzada",
+                    "San Antonio",
+                    "Torata",
+                    "Victoria",
+                    "Balneario Jambelí",
+                    "Jumón",
+                    "Nuevo Santa Rosa",
+                    "Puerto Jelí",
+                    "Santa Rosa"
+                ]
+            },
+            {
+                "Zaruma": [
+                    "Abañín",
+                    "Arcapamba",
+                    "Guanazán",
+                    "Guizhaguiña",
+                    "Huertas",
+                    "Malvas",
+                    "Muluncay Grande",
+                    "Sinsao",
+                    "Salvias"
+                ]
+            }
+        ]
+    },
+    "2": {
+        "nombre": "Esmeraldas",
+        "cantones": [
+            {
+                "Esmeraldas": [
+                    "Camarones",
+                    "Coronel Carlos Concha Torres",
+                    "Chinca",
+                    "Majua",
+                    "San Mateo",
+                    "Tabiazo",
+                    "Tachina",
+                    "Vuelta Larga",
+                    "5 de Agosto",
+                    "Bartolomé Ruiz",
+                    "Esmeraldas",
+                    "Luis Tello",
+                    "Simón Plata Torres"
+                ]
+            },
+            {
+                "Atacames": [
+                    "La Unión",
+                    "Súa",
+                    "Tonchigüe",
+                    "Tonsupa"
+                ]
+            },
+            {
+                "Eloy Alfaro": [
+                    "Anchayacu",
+                    "Atahualpa",
+                    "Borbón",
+                    "Colón Eloy del María",
+                    "La Tola",
+                    "Luis Vargas Torres",
+                    "Maldonado",
+                    "Pampanal de Bolívar",
+                    "San Francisco de Onzole",
+                    "San José de Cayapas",
+                    "Santo Domingo de Onzole",
+                    "Santa Lucía de las Peñas",
+                    "Selva Alegre",
+                    "Telembí",
+                    "Timbiré",
+                    "Valdez"
+                ]
+            },
+            {
+                "Muisne": [
+                    "Bolívar",
+                    "Daule",
+                    "Galera",
+                    "Quingue",
+                    "Salima",
+                    "San Francisco",
+                    "San Gregorio",
+                    "San Jose de Chamanga"
+                ]
+            },
+            {
+                "Quinindé": [
+                    "Cube",
+                    "Chura",
+                    "La Unión",
+                    "Malimpia",
+                    "Viche",
+                    "Rosa Zárate"
+                ]
+            },
+            {
+                "Rioverde": [
+                    "Chontaduro",
+                    "Chumundé",
+                    "Lagarto",
+                    "Montalvo",
+                    "Rocafuerte"
+                ]
+            },
+            {
+                "San Lorenzo": [
+                    "5 de Junio",
+                    "Alto Tambo",
+                    "Ancón",
+                    "Calderón",
+                    "Carondelet",
+                    "Concepción",
+                    "Mataje",
+                    "San Javier de Cachaví",
+                    "Santa Rita",
+                    "Tambillo",
+                    "Tululbí",
+                    "Urbina"
+                ]
+            }
+        ]
+    },
+    "3": {
+        "nombre": "Galápagos",
+        "cantones": [
+            {
+                "San Cristóbal": [
+                    "Española",
+                    "Santa Fe",
+                    "Genovesa",
+                    "El Progreso",
+                    "Floreana",
+                    "Puerto Baquerizo Moreno"
+                ]
+            },
+            {
+                "Isabela": [
+                    "Isla Charles Darwin",
+                    "Fernandina",
+                    "Teodoro Wolf",
+                    "Tomás de Berlanga",
+                    "Puerto Villamil"
+                ]
+            },
+            {
+                "Santa Cruz": [
+                    "Bellavista",
+                    "Baltra",
+                    "Marchena",
+                    "Pinta",
+                    "Pinzón",
+                    "Rábida",
+                    "Santiago",
+                    "Seymou",
+                    "Santa Rosa",
+                    "Puerto Ayora"
+                ]
+            }
+        ]
+    },
+    "4": {
+        "nombre": "Guayas",
+        "cantones": [
+            {
+                "Guayaquil": [
+                    "Juan Gómez Rendón",
+                    "Morro",
+                    "Posorja",
+                    "Puná",
+                    "Tenguel",
+                    "Ayacucho",
+                    "Bolívar",
+                    "Carbo",
+                    "Febres Cordero",
+                    "García Moreno",
+                    "Letamendi",
+                    "Nueve de Octubre",
+                    "Olmedo",
+                    "Roca",
+                    "Rocafuerte",
+                    "Sucre",
+                    "Tarqui",
+                    "Urdaneta",
+                    "Ximena",
+                    "Pascuales"
+                ]
+            },
+            {
+                "Alfredo Baquerizo Moreno": [
+                    "Jujan",
+                    "Alfredo Baquerizo Moreno"
+                ]
+            },
+            {
+                "Balao": [
+                    "Balao"
+                ]
+            },
+            {
+                "Balzar": [
+                    "Balzar"
+                ]
+            },
+            {
+                "Colimes": [
+                    "San Jacinto"
+                ]
+            },
+            {
+                "Daule": [
+                    "Juan Bautista Aguirre",
+                    "Laurel",
+                    "Limonal",
+                    "Los Lojas",
+                    "Daule",
+                    "La Aurora",
+                    "Banife",
+                    "Emiliano Caicedo Marcos",
+                    "Magro",
+                    "Padre Juan Bautista Aguirre",
+                    "Santa Clara",
+                    "Vicente Piedrahita"
+                ]
+            },
+            {
+                "Durán": [
+                    "Eloy Alfaro",
+                    "El Recero"
+                ]
+            },
+            {
+                "El Empalme": [
+                    "Guayas",
+                    "El Rosario",
+                    "Velasco Ibarra"
+                ]
+            },
+            {
+                "El Triunfo": [
+                    "El Triunfo"
+                ]
+            },
+            {
+                "General Antonio Elizalde": [
+                    "Bucay",
+                    "General Antonio Elizalde"
+                ]
+            },
+            {
+                "Isidro Ayora": [
+                    "Isidro Ayora"
+                ]
+            },
+            {
+                "Lomas de Sargentillo": [
+                    "Lomas de Sargentillo"
+                ]
+            },
+            {
+                "Marcelino Maridueña": [
+                    "Coronel Marcelino Maridueña"
+                ]
+            },
+            {
+                "Milagro": [
+                    "Chobo",
+                    "Mariscal Sucre",
+                    "Roberto Astudillo"
+                ]
+            },
+            {
+                "Naranjal": [
+                    "Jesús María",
+                    "San Carlos",
+                    "Santa Rosa de Flandes",
+                    "Taura"
+                ]
+            },
+            {
+                "Naranjito": [
+                    "Naranjito"
+                ]
+            },
+            {
+                "Nobol": [
+                    "Narcisa de Jesús"
+                ]
+            },
+            {
+                "Palestina": [
+                    "Palestina"
+                ]
+            },
+            {
+                "Pedro Carbo": [
+                    "Valle de La Virgen",
+                    "Sabanilla"
+                ]
+            },
+            {
+                "Playas": [
+                    "General Villamil"
+                ]
+            },
+            {
+                "Salitre": [
+                    "General Vernaza",
+                    "La Victoria",
+                    "Junquillal",
+                    "Bocana",
+                    "Candilejos",
+                    "Central",
+                    "Paraíso",
+                    "San Mateo",
+                    "El Salitre"
+                ]
+            },
+            {
+                "Samborondón": [
+                    "Samborondón",
+                    "La Puntilla",
+                    "Tarifa"
+                ]
+            },
+            {
+                "Santa Lucía": [
+                    "Santa Lucía"
+                ]
+            },
+            {
+                "Simón Bolívar": [
+                    "Coronel Lorenzo de Garaicoa",
+                    "Simón Bolívar"
+                ]
+            },
+            {
+                "Yaguachi": [
+                    "General Pedro J. Montero",
+                    "Yaguachi Viejo",
+                    "Virgen de Fátima",
+                    "San Jacinto de Yaguachi"
+                ]
+            }
+        ]
+    },
+    "5": {
+        "nombre": "Manabí",
+        "cantones": [
+            {
+                "Portoviejo": [
+                    "Alhajuela",
+                    "Calderón",
+                    "Chirijos",
+                    "Crucita",
+                    "Pueblo Nuevo",
+                    "Riochico",
+                    "San Plácido",
+                    "Portoviejo",
+                    "12 de Marzo",
+                    "Colón",
+                    "Picoazá",
+                    "San Pablo",
+                    "Andrés de Vera",
+                    "Francisco Pacheco",
+                    "18 de Octubre",
+                    "Simón Bolívar"
+                ]
+            },
+            {
+                "24 de Mayo": [
+                    "Bellavista",
+                    "Noboa",
+                    "Arquitecto Sixto Durán Ballén",
+                    "Sucre"
+                ]
+            },
+            {
+                "Bolívar": [
+                    "Membrillo",
+                    "Quiroga",
+                    "Calceta"
+                ]
+            },
+            {
+                "Chone": [
+                    "Boyacá",
+                    "Canuto",
+                    "Chibunga",
+                    "Convento",
+                    "Eloy Alfaro",
+                    "Ricaurte",
+                    "San Antonio",
+                    "Chone",
+                    "Santa Rita"
+                ]
+            },
+            {
+                "El Carmen": [
+                    "Wilfrido Loor Moreira",
+                    "San Pedro de Suma",
+                    "El Carmen",
+                    "4 de Diciembre"
+                ]
+            },
+            {
+                "Flavio Alfaro": [
+                    "San Francisco de Novillo",
+                    "Zapallo"
+                ]
+            },
+            {
+                "Jama": [
+                    "Jama"
+                ]
+            },
+            {
+                "Jaramijó": [
+                    "Jaramijó"
+                ]
+            },
+            {
+                "Jipijapa": [
+                    "América",
+                    "El Anegado",
+                    "Julcuy",
+                    "La Unión",
+                    "Membrillal",
+                    "Pedro Pablo Gómez",
+                    "Puerto de Cayo",
+                    "Doctor Miguel Morán Lucio",
+                    "Manuel Inocencio Parrales y Guale",
+                    "San Lorenzo de Jipijapa"
+                ]
+            },
+            {
+                "Junín": [
+                    "Junín"
+                ]
+            },
+            {
+                "Manta": [
+                    "San Lorenzo",
+                    "Santa Marianita",
+                    "Los Estero",
+                    "Manta",
+                    "San Mateo",
+                    "Tarqui",
+                    "Eloy Alfaro"
+                ]
+            },
+            {
+                "Montecristi": [
+                    "La Pila",
+                    "Aníbal San Andrés",
+                    "Montecristi",
+                    "El Colorado",
+                    "General Eloy Alfaro",
+                    "Leonidas Proaño"
+                ]
+            },
+            {
+                "Olmedo": [
+                    "Olmedo"
+                ]
+            },
+            {
+                "Paján": [
+                    "Campozano",
+                    "Cascol",
+                    "Guale",
+                    "Lascano"
+                ]
+            },
+            {
+                "Pedernales": [
+                    "Cojimíes",
+                    "10 de Agosto",
+                    "Atahualpa"
+                ]
+            },
+            {
+                "Pichincha": [
+                    "Barraganete",
+                    "San Sebastián",
+                    "Pichincha"
+                ]
+            },
+            {
+                "Puerto López": [
+                    "Machalilla",
+                    "Salango"
+                ]
+            },
+            {
+                "Rocafuerte": [
+                    "Rocafuerte"
+                ]
+            },
+            {
+                "San Vicente": [
+                    "Canoa"
+                ]
+            },
+            {
+                "Santa Ana": [
+                    "Ayacucho",
+                    "Honorato Vásquez",
+                    "La Unión",
+                    "San Pablo",
+                    "Santa Ana",
+                    "Lodana"
+                ]
+            },
+            {
+                "Sucre": [
+                    "Charapotó",
+                    "San Isidro",
+                    "Bahía de Caráquez",
+                    "Leonidas Plaza Gutiérrez"
+                ]
+            },
+            {
+                "Tosagua": [
+                    "Bachillerato",
+                    "Angel Pedro Giler"
+                ]
+            }
+        ]
+    },
+    "6": {
+        "nombre": "Santa Elena",
+        "cantones": [
+            {
+                "Santa Elena": [
+                    "Atahualpa",
+                    "Colonche",
+                    "Chanduy",
+                    "Manglaralto",
+                    "Simón Bolívar",
+                    "San José de Ancón",
+                    "Ballenita, Santa Elena"
+                ]
+            },
+            {
+                "La Libertad": [
+                    "Libertad"
+                ]
+            },
+            {
+                "Salinas": [
+                    "Anconcito",
+                    "José Luis Tamayo",
+                    "Carlos Espinoza Larrea",
+                    "General Alberto Enríquez Gallo",
+                    "Vicente Rocafuerte",
+                    "Santa Rosa"
+                ]
+            }
+        ]
+    }
+}
