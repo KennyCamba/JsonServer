@@ -38,6 +38,14 @@ app.get('/estaciones', function(req, res){
     res.send(json);
 });
 
+app.get('/usuarios', function(req, res){
+    console.log("[" + new Date() + "] GET: " + req.url);
+    let data = fs.readFileSync("resources/users.json");
+    let json = JSON.parse(data);
+    res.status(200);
+    res.send(json);
+});
+
 app.get('/estaciones/imgs', function(req, res){
     console.log("[" + new Date() + "] GET: " + req.url);
     var img = req.query["name"];

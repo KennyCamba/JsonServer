@@ -1,0 +1,51 @@
+{
+    "1":{
+        "usuario": "saraujo",
+        "nombre": "Steven",
+        "apellido": "Araujo",
+        "email": "saraujo@espol.edu.ec",
+        "rol": "admin"
+    },
+    "2": {
+        "usuario": "kacamba",
+        "nombre": "Kenny",
+        "apellido": "Camba",
+        "email": "kacamba@espol.edu.ec",
+        "rol": "admin"
+    },
+    "3": {
+        "usuario": "chjoguer",
+        "nombre": "Christian",
+        "apellido": "Guerrero",
+        "email": "chjoguer@espol.edu.ec",
+        "rol": "validador"
+    },
+    "4": {
+        "usuario": "joeles",
+        "nombre": "Joel",
+        "apellido": "Espinoza",
+        "email": "joeles@espol.edu.ec",
+        "rol": "observador"
+    },
+    "5": {
+        "usuario": "saragar",
+        "nombre": "Sara",
+        "apellido": "García",
+        "email": "saragar@espol.edu.ec",
+        "rol": "validador"
+    },
+    "6": {
+        "usuario": "joricast",
+        "nombre": "Jordan",
+        "apellido": "Castro",
+        "email": "joricast@espol.edu.ec",
+        "rol": "visitante"
+    },
+    "7": {
+        "usuario": "anditen",
+        "nombre": "Andres",
+        "apellido": "Tenempaguay",
+        "email": "anditen@espol.edu.ec",
+        "rol": "visitante"
+    }
+}
