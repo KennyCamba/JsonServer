@@ -4,7 +4,7 @@
         "province": "Santa Elena",
         "canton": "Santa Elena",
         "parish": "Manglar Alto",
-        "img": "../img/slides/manglaralto.jpg",
+        "img": "https://cip-rrd.herokuapp.com/estaciones/imgs?name=manglaralto.jpg",
         "coord": {
             "lng": -80.726209,
             "lat": -1.933546
@@ -17,7 +17,7 @@
         "province": "Santa Elena",
         "canton": "Santa Elena",
         "parish": "Olon",
-        "img": "../img/slides/olon.jpg",
+        "img": "https://cip-rrd.herokuapp.com/estaciones/imgs?name=olon.jpg",
         "coord": {
             "lng": -80.758803,
             "lat": -1.804541
@@ -30,7 +30,7 @@
         "province": "Guayas",
         "canton": "Playas",
         "parish": "General Villamil",
-        "img": "../img/slides/playas.jpg",
+        "img": "https://cip-rrd.herokuapp.com/estaciones/imgs?name=playas.jpg",
         "coord": {
             "lng": -80.390786,
             "lat": -2.640095
@@ -43,7 +43,7 @@
         "province": "Santa Elena",
         "canton": "Santa Elena",
         "parish": "Salinas",
-        "img": "../img/slides/salinas.jpg",
+        "img": "https://cip-rrd.herokuapp.com/estaciones/imgs?name=salinas.jpg",
         "coord": {
             "lng": -80.996364,
             "lat": -2.200038
